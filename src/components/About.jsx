@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import Photo from "../assets/Passport_pic2.jpg";
 
 const About = () => {
   return (
@@ -11,10 +12,8 @@ const About = () => {
                 <div></div>
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-                    <div className='sm:text-right text-3xl font-bold'>
-                        <p>
-                            Hi. I'm Apoorva, nice to meet you. Please take a look around.
-                        </p>
+                    <div className='mx-auto'>
+                        <img src={Photo} alt="picture" style={{width:"150px"}}/>
                     </div>
                     <div>
                         <p>I am passionate about building web applications that makes lives easier of those around me. I specialise in creating websites for clients.</p>

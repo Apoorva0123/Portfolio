@@ -16,7 +16,7 @@ const About = () => {
                         <img src={Photo} alt="picture" style={{width:"150px"}}/>
                     </div>
                     <div>
-                        <p>I am passionate about building web applications that makes lives easier of those around me. I specialise in creating websites for clients.</p>
+                        <p>I am a web developer who has a true passion for learning to code. I started with the web basics consisting of HTML and CSS then soon progressed to JavaScript, Node and React. Developing and programming is exciting to me since learning never stops. I enjoy discovering new technologies and building creative projects with what I learn. My goal is to work as a contributing member as a full-stack web developer on a team of co-workers.</p>
                     </div>
                 </div>
         </div>

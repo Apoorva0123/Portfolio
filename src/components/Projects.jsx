@@ -55,6 +55,17 @@ const Projects = () => {
               categories.
             </p>
           </div>
+
+          <div className="border-2 border-pink-600 rounded-md">
+          <h3 className="font-bold text-3xl text-center border-b-2 border-pink-600">
+              Tech-Stack
+          </h3>
+          <li>JavaScript</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>MongoDB</li>
+          </div>
+
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 mt-10">
           {/* Grid Item */}
@@ -99,6 +110,16 @@ const Projects = () => {
               of every kind at competitive rates.
             </p>
           </div>
+
+          <div className="border-2 border-pink-600 rounded-md">
+          <h3 className="font-bold text-3xl text-center border-b-2 border-pink-600">
+              Tech-Stack
+          </h3>
+          <li>JavaScript</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          </div>
+
         </div>
       </div>
     </div>

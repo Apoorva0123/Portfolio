@@ -65,11 +65,11 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Overstock-Clone
+                Expedia-Clone
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://overstock-clone-unit-4.netlify.app/"
+                  href="https://project-expedia-masai.vercel.app/"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -77,7 +77,7 @@ const Projects = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Apoorva0123/Overstock"
+                  href="https://github.com/Apoorva0123/Project_Expedia_Masai"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">

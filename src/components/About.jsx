@@ -13,7 +13,7 @@ const About = () => {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='mx-auto'>
-                        <img className="w-[160px] ml-52" src={Photo} alt="picture" style={{width:"150px"}}/>
+                        <img className="w-[160px] ml-36" src={Photo} alt="picture" style={{width:"150px"}}/>
                     </div>
                     <div>
                         <p>I am a web developer who has a true passion for learning to code. I started with the web basics consisting of HTML and CSS then soon progressed to JavaScript, Node and React. Developing and programming is exciting to me since learning never stops. I enjoy discovering new technologies and building creative projects with what I learn. My goal is to work as a contributing member as a full-stack web developer on a team of co-workers.</p>

@@ -9,13 +9,13 @@ import Works from "./components/Works";
 function App() {
   return (
     <div className="bg-[#0a192f]">
-      <Navbar/>
-      <Home/>
-      <About/>
-      <Skills/>
+      <Navbar />
+      <Home />
+      <About />
+      <Skills />
       {/* <Works/> */}
-      <Projects/>
-      <Contact/>
+      <Projects />
+      <Contact />
     </div>
   );
 }

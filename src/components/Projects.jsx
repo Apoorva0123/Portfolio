@@ -64,6 +64,24 @@ const Projects = () => {
             <li>HTML</li>
             <li>CSS</li>
             <li>MongoDB</li>
+            <div className="pt-8 text-center">
+              <a
+                href="https://overstock-clone-unit-4.netlify.app/"
+                target="_blank"
+              >
+                <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  Demo
+                </button>
+              </a>
+              <a
+                href="https://github.com/Apoorva0123/Overstock"
+                target="_blank"
+              >
+                <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  Code
+                </button>
+              </a>
+            </div>
           </div>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 mt-10">
@@ -117,6 +135,24 @@ const Projects = () => {
             <li>JavaScript</li>
             <li>HTML</li>
             <li>CSS</li>
+            <div className="pt-8 text-center">
+              <a
+                href="https://project-expedia-masai.vercel.app/"
+                target="_blank"
+              >
+                <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  Demo
+                </button>
+              </a>
+              <a
+                href="https://github.com/Apoorva0123/Project_Expedia_Masai"
+                target="_blank"
+              >
+                <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  Code
+                </button>
+              </a>
+            </div>
           </div>
         </div>
       </div>
